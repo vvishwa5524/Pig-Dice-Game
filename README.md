@@ -37,13 +37,13 @@ The **Pig Dice Game** is a fun and interactive two-player web game developed dur
 ## 🎨 How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pig-dice-game.git
+   git clone https://github.com/vvishwa5524/pig-dice-game.git
    ```
 2. Open `index.html` in any browser.
 3. Enjoy the game with a friend!
 
 ## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
+You can find this game at https://vishwanathtuduru.com/dice-game
 
 ---
 
